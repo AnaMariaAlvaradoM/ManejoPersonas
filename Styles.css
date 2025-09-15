@@ -118,14 +118,14 @@ tr:hover {
 .acciones {
     display: flex;
     justify-content: center;
-    gap: 5px; /* Espacio entre botones */
+    gap: 5px; 
 }
 
 .acciones button {
-    padding: 6px 10px;  /* Reduce el tamaño del botón */
-    font-size: 20px;    /* Reduce el tamaño del texto */
-    width: auto;        /* Hace que el tamaño se ajuste al contenido */
-    min-width: 70px;    /* Define un ancho mínimo para que no sean demasiado pequeños */
+    padding: 6px 10px;  
+    font-size: 20px;    
+    width: auto;        
+    min-width: 70px;    
     color: white;
     border: none;
     cursor: pointer;
